@@ -10,6 +10,6 @@
 
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
-This is an update to the readme file
+This is an update to the readme file test 6/23
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
