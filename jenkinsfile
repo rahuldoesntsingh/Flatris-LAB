@@ -1,0 +1,10 @@
+pipeline
+{
+  agent any
+  stages
+  {
+    stage('contDown')
+    {
+      git 'https://github.com/karthikvarkola/Flatris-LAB.git'
+    }
+ }
