@@ -1,1 +1,2 @@
-make from PC
+make
+make
